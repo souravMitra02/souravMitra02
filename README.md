@@ -79,9 +79,10 @@ I’m a dedicated and passionate web developer focused on building clean and res
 
 ### 1. 🏨 Roommate Finder
 
-* 🔗 [Live Link](https://roommate-finder.netlify.app)
+* 🔗 [Live Link](https://find-mate.netlify.app/)
 * 💡 MERN Stack full-featured app for finding roommates
 * 🔧 Tech Stack: React, Tailwind, Firebase, Express.js, MongoDB
+
 
 ### 2. 🌍 Volunteer Management Platform
 
@@ -96,7 +97,7 @@ I’m a dedicated and passionate web developer focused on building clean and res
 ````md
 # Roommate Finder Web App
 
-🔗 Live Site: https://roommate-finder.netlify.app
+🔗 Live Site: https://find-mate.netlify.app/
 
 ## 📝 Overview
 A full-featured MERN Stack web app that allows users to find, post, and manage roommate listings with authentication and user-specific dashboards.
@@ -136,15 +137,4 @@ npm install
 npm run dev
 ```
 
-## 🔗 Links
 
-* Live Demo: [https://roommate-finder.netlify.app](https://roommate-finder.netlify.app)
-* GitHub: [https://github.com/souravmitra/roommate-finder](https://github.com/souravmitra/roommate-finder)
-
-```
-
----
-
-📝 Feel free to customize all links, usernames, and images for your real account!
-
-```
