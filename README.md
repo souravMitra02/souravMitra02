@@ -45,16 +45,26 @@ I’m a dedicated and passionate web developer focused on building clean and res
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/souravmitra" target="_blank">
+  <a href="https://www.linkedin.com/in/sourav-mitra-026852315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:souravmitra.dev@gmail.com">
+  <a href="mailto:inf.souravmitra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/souravmitra">
+  <a href="https://github.com/souravMitra02">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/its.me.souravmitra" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+8801891883223" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/its.me.souravmitra" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -62,7 +72,7 @@ I’m a dedicated and passionate web developer focused on building clean and res
 
 ![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravmitra\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravmitra\&layout=compact\&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=souravmitra\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=souravMitra02\&theme=radical)
 
 ---
 
@@ -76,17 +86,11 @@ I’m a dedicated and passionate web developer focused on building clean and res
 
 ### 2. 🌍 Volunteer Management Platform
 
-* 🔗 [Live Link](https://volunteer-app.netlify.app)
+* 🔗 [Live Link]([https://volunteer-app.netlify.app](https://volunteer-project.netlify.app/))
 * 💡 Volunteer request and management system with role-based dashboard
 * 🔧 Tech Stack: React, Node.js, MongoDB, JWT
 
-### 3. 🍔 Food Delivery UI
 
-* 🔗 [Live Link](https://fastfood-delivery-ui.netlify.app)
-* 💡 Responsive UI design for a food delivery platform
-* 🔧 Tech Stack: HTML, CSS, Tailwind, React
-
----
 
 ## 📁 Sample Project README Template
 
