@@ -6,7 +6,7 @@
 ### 📍 Location & 📧 Contact
 
 * **Location**: Guthia,Wazirpur, Barishal,Dhaka, Bangladesh
-* **Email**: [inf.souravmitra.dev@gmail.com](mailto:inf.souravmitra.dev@gmail.com)
+* **Email**: [inf.souravmitra@gmail.com](mailto:inf.souravmitra@gmail.com)
 
 ---
 
@@ -72,7 +72,7 @@ I’m a dedicated and passionate web developer focused on building clean and res
 
 ![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravmitra\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravmitra\&layout=compact\&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=souravMitra02\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=souravMitra02&theme=radical)
 
 ---
 
