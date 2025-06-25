@@ -85,7 +85,7 @@ I’m a dedicated and passionate web developer focused on building clean and res
 
 ### 2. 🌍 Volunteer Management Platform
 
-* 🔗 [Live Link]([https://volunteer-app.netlify.app](https://volunteer-project.netlify.app/))
+* 🔗 [Live Link](https://volunteer-project.netlify.app/)
 * 💡 Volunteer request and management system with role-based dashboard
 * 🔧 Tech Stack: React, Node.js, MongoDB, JWT
 
