@@ -1,38 +1,49 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="Banner" />
+# 👋 Hi, I'm Sourav Mitra
 
-<h1 align="center">Hi, I'm Sourav Mitra 👋</h1>
-<h3 align="center">Frontend Web Developer | MERN Stack Learner</h3>
+![Banner](https://i.imgur.com/YOUR_BANNER_IMAGE.png)
 
----
+## 👨‍💻 Frontend Developer | MERN Stack Learner
 
-### 📍 Location & 📧 Email
+### 📍 Location & 📧 Contact
 
-- 📍 Based in: **Dhaka, Bangladesh**
-- 📧 Email: **souravmitra.dev@gmail.com**
+* **Location**: Dhaka, Bangladesh
+* **Email**: [souravmitra.dev@gmail.com](mailto:souravmitra.dev@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💼 About Me
 
-Hi! I’m a passionate developer focused on building responsive and functional web applications. I love solving real-world problems using code and continuously learning new technologies.
+I’m a dedicated and passionate web developer focused on building clean and responsive user interfaces with modern technologies. I love solving real-world problems through code and continuously improving my skills.
 
-### 🔥 Currently Working On:
-- 🚀 A tourism-based full-stack website  
-- 🔍 Exploring **Next.js** & **JWT Authentication**  
-- 🛠️ Improving my **MongoDB + Express** backend skills  
+### 🔥 Current Activities
+
+* 🚀 Building a full-stack Tourism website
+* 🔍 Exploring **Next.js** and **JWT Authentication**
+* 🛠️ Practicing MongoDB and Express backend development
 
 ---
 
 ## 🚀 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,nodejs,express,mongodb,firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/souravmitra" target="_blank">
@@ -50,34 +61,37 @@ Hi! I’m a passionate developer focused on building responsive and functional w
 
 ## 📊 GitHub Stats
 
-![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravmitra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravmitra&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=souravmitra&theme=radical)
+![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravmitra\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravmitra\&layout=compact\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=souravmitra\&theme=radical)
 
 ---
 
 ## 📌 Pinned Projects
 
-### 1. 🏨 Roommate Finder  
-🔗 [Live Link](https://roommate-finder.netlify.app)  
-🔧 Tech Stack: React, Express.js, MongoDB, Firebase  
-📦 Features: CRUD operations, Protected routes, Like button, My listings
+### 1. 🏨 Roommate Finder
 
-### 2. 🌍 Volunteer Management Platform  
-🔗 [Live Site](https://volunteer-app.netlify.app)  
-🔧 Tech Stack: React, Node.js, MongoDB, JWT  
-📦 Features: Two user roles, Role-based dashboards, Token-based auth
+* 🔗 [Live Link](https://roommate-finder.netlify.app)
+* 💡 MERN Stack full-featured app for finding roommates
+* 🔧 Tech Stack: React, Tailwind, Firebase, Express.js, MongoDB
 
-### 3. 🍔 Food Delivery UI  
-🔗 [Live Demo](https://fastfood-delivery-ui.netlify.app)  
-🔧 Tech Stack: HTML, CSS, Tailwind, React  
-📦 Features: Hero section, Card-based layout, Responsive design
+### 2. 🌍 Volunteer Management Platform
+
+* 🔗 [Live Link](https://volunteer-app.netlify.app)
+* 💡 Volunteer request and management system with role-based dashboard
+* 🔧 Tech Stack: React, Node.js, MongoDB, JWT
+
+### 3. 🍔 Food Delivery UI
+
+* 🔗 [Live Link](https://fastfood-delivery-ui.netlify.app)
+* 💡 Responsive UI design for a food delivery platform
+* 🔧 Tech Stack: HTML, CSS, Tailwind, React
 
 ---
 
-## 📝 Sample Project README Template
+## 📁 Sample Project README Template
 
-```md
+````md
 # Roommate Finder Web App
 
 🔗 Live Site: https://roommate-finder.netlify.app
@@ -104,6 +118,11 @@ A full-featured MERN Stack web app that allows users to find, post, and manage r
 ## 📦 Dependencies
 ```bash
 npm install react react-router-dom axios express cors mongoose jsonwebtoken
+````
+
+## 🛠️ How to Run Locally
+
+```bash
 # Client
 cd client
 npm install
@@ -113,16 +132,17 @@ npm run dev
 cd server
 npm install
 npm run dev
+```
+
+## 🔗 Links
+
+* Live Demo: [https://roommate-finder.netlify.app](https://roommate-finder.netlify.app)
+* GitHub: [https://github.com/souravmitra/roommate-finder](https://github.com/souravmitra/roommate-finder)
+
+```
 
 ---
 
-## ✨ Instructions for You:
-- Upload banner image to [imgur.com](https://imgur.com/) or GitHub CDN
-- Replace `YOUR_BANNER_IMAGE.png` link
-- Replace links/usernames with yours (`souravmitra` or your GitHub username)
-- Copy-paste to your GitHub profile repo as `README.md`
+📝 Feel free to customize all links, usernames, and images for your real account!
 
----
-
-**Bonus**: Want me to generate the same with animated badges, contribution graph, or animated typing effect?  
-Let me know — I'll add those too! ✅
+```
