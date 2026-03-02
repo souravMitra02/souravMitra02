@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Frontend Developer | MERN Stack Enthusiast
 ------------------------------------------
-![Location](https://img.shields.io/badge/Location-Guthia%2C%20Barisal-blue?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Guthia%2C%20Barisal Dhaka Bangladesh-blue?style=flat-square&logo=googlemaps&logoColor=white)
 
 # 💫 About Me:
 🔭 I’m currently working on: Learning new technologies to stay ahead in the tech world while consistently updating and refining my existing skills in React.js and Next.js.<br>👯 I’m looking to collaborate on: Open-source projects and innovative web applications built with the MERN stack, especially those focusing on high-performance frontend experiences using Next.js.<br>🤝I’m looking for help with: Mastering Advanced Next.js patterns (like Server Components and Intercepting Routes) and learning to write Unit Tests to build more robust, industry-standard applications.<br>🌱 I’m currently learning: Advanced TypeScript, performance optimization, and exploring more scalable ways to manage state in large applications.<br>💬 Ask me about: React.js, Next.js, Tailwind CSS, and building responsive user interfaces with TypeScript. You can also ask me about MERN stack integration and implementing role-based authentication.<br>⚡ Fun fact: I treat my career like a software update—always evolving, fixing bugs in my logic, and constantly adding new features to my skill set!
